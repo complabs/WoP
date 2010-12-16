@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_t1.html" title="The class T1 extends Thread class." alt="" coords="7,5,44,35"/>
+<area shape="rect" id="node3" href="$class_t3.html" title="The class T3 extends T1 class." alt="" coords="95,5,132,35"/>
+</map>
