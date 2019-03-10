@@ -1,6 +1,6 @@
 # World of Particles (WoP)
 
-The full documentation is [here](https://mekeetsa.github.io/WoP).
+The full documentation is [here](https://complabs.github.io/WoP).
 
 The application displays an artificial world of charged and electrically neutral particles that are governed by physical laws (i.e. electrical and gravitational forces as well Newton's law of motions). This world is referred in the rest of the documentation as the World of Particles or simply the WoP.
 
